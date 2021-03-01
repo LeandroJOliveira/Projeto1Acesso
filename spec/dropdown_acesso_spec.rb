@@ -1,4 +1,4 @@
-describe 'Caixa de seleção', :dropdown do
+describe 'Caixa de opções', :dropdown do
 
     it 'Selecionando item simples' do
  
